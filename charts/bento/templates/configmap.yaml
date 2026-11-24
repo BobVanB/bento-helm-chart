@@ -46,4 +46,4 @@ data:
       stdout:
         codec: lines
     {{- end -}}
-{{- end }}
+{{- end -}}
